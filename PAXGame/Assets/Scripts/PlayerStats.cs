@@ -52,19 +52,8 @@ public class PlayerStats : MonoBehaviour {
     private float rangedAttactCooldownBase = 0;
     private float rangedAttactCooldownModifier = 0;
     #endregion
-
-    private int Base = 0;
-    private int Modifier = 0;
-
-    private int Base = 0;
-    private int Modifier = 0;
-
-    private int Base = 0;
-    private int Modifier = 0;
-
-    private int Base = 0;
-    private int Modifier = 0;
-    #endregion
+    //private int Base = 0;
+    //private int Modifier = 0;
 
 
     #region[Unity Events]
